@@ -13,7 +13,7 @@ function progressbar {
 
 function deathnote {
 
-    printf "Author: azazelm3dj3d (https://github.com/azazelm3dj3d)\n"
+    printf "Author: battleoverflow (https://github.com/battleoverflow)\n"
     printf "Version: 1.0.2\n\n"
     
     printf "Please select a directory or file to obliterate:\n\n"
